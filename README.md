@@ -12,7 +12,7 @@ A simple website to calculate Body Mass Index (BMI). Made using HTML,CSS, and va
 ## How does it works?
    You can look at this flowchart:
 
-   ![BMI Flowchart](https://github.com/Agastya486/BMI-Calculator/assets/123287468/9a46ba59-839e-45a7-8de0-328b60ed2c60)
+   ![BMI Flowchart](https://github.com/Agastya486/BMI-Calculator/assets/123287468/f12dad5c-f132-4adf-b740-53dd50698198)
 
    ## License
 
